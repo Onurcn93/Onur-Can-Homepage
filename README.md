@@ -1,7 +1,5 @@
 # Onur-Can-Homepage
 
-# Simple Homepage  
-
 This repository contains a **responsive homepage** built with **HTML** and **CSS**, designed with modern **UI/UX principles** for a clean and user-friendly experience.  
 
 ## Folder Structure  
